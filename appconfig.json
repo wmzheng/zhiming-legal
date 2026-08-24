@@ -6,7 +6,8 @@
   "title": "发现新版本",
   "message": "本次更新：\n· 新增「家居风水」户型分析\n· 优化排盘与解读体验\n建议更新到最新版。",
   "appStoreId": "6799810444",
-  "freeDaily": 5,
+  "freeDaily": 10,
+  "freeUseDaily": 3,
   "ai": {
     "dream": true,
     "yijing": true,
