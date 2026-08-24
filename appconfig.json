@@ -5,7 +5,7 @@
   "latestVersion": "1.1.0",
   "title": "发现新版本",
   "message": "本次更新：\n· 新增「家居风水」户型分析\n· 优化排盘与解读体验\n建议更新到最新版。",
-  "appStoreId": "0000000000",
+  "appStoreId": "6799810444",
   "freeDaily": 5,
   "ai": {
     "dream": true,
@@ -14,6 +14,12 @@
     "bazi": true,
     "fengshui": true,
     "zeji": true
+  },
+  "review": {
+    "versions": ["1.0"],
+    "builds": [4],
+    "account": "13800000000",
+    "password": "Abc654321"
   },
   "v": 1,
   "k": "ffUQ4t+I7BytudRlWVXmhz/1ZEt0lZCq9huEN7zBreFSqSegpA252IEE25m8YuEincs98tQzPv91UMUGILhdRAh+poVi8MJ0/ww="
