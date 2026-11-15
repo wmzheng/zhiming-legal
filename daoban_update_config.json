@@ -1,7 +1,7 @@
 {
   "bundleID": "com.daoban.zwl",
-  "latestVersion": "1.0",
-  "latestBuild": 1,
+  "latestVersion": "2.0",
+  "latestBuild": 2,
   "minBuild": 1,
   "forceUpdate": false,
   "title": "发现新版本",
