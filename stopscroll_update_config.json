@@ -1,0 +1,13 @@
+{
+  "bundleID": "com.stopscroll.zwl",
+  "latestVersion": "1.0.0",
+  "latestBuild": 1,
+  "minBuild": 1,
+  "forceUpdate": false,
+  "localizations": {
+    "zh-Hans": {
+      "title": "发现新版本",
+      "message": "戒刷有新版本可用。"
+    }
+  }
+}
