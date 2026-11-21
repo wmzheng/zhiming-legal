@@ -1,9 +1,24 @@
 {
-  "latestBuild": 1,
+  "latestBuild": 7,
   "minBuild": 1,
   "forceUpdate": false,
-  "latestVersion": "2.0",
+  "latestVersion": "1.1",
   "title": "发现新版本",
-  "message": "本次更新：\n· 优化了使用体验\n· 修复了已知问题1\n建议更新到最新版。",
-  "appStoreId": ""
+  "message": "本次更新：\n· 优化了使用体验\n· 修复了已知问题\n建议更新到最新版。",
+  "appStoreId": "",
+  "rewardedAdDailyLimit": 5,
+  "localizations": {
+    "zh-Hans": {
+      "title": "发现新版本",
+      "message": "本次更新：\n· 优化了使用体验\n· 修复了已知问题\n建议更新到最新版。"
+    },
+    "en": {
+      "title": "An update is available",
+      "message": "This update improves the app and fixes known issues. Update to get the latest version."
+    },
+    "zh-Hant": {
+      "title": "發現新版本",
+      "message": "這次更新改善使用體驗並修正已知問題，建議更新至最新版本。"
+    }
+  }
 }
